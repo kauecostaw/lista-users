@@ -1,0 +1,22 @@
+.cartao {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.cartao img {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+}
+
+.cartao h2 {
+    margin: 10px 0;
+}
+
+.cartao p {
+    margin: 8px 0;
+}
