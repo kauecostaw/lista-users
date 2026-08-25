@@ -1,5 +1,1 @@
-# lista-users
-
-## Resultado
-
-![Resultado da lista de usuários](resultado.png)
+![Resultado final da listagem](./img/resultado1.png)
